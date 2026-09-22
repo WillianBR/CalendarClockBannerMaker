@@ -1,0 +1,12 @@
+#ifndef CALENDAR_CLOCK_BANNER_MAKER_RESOURCE_H
+#define CALENDAR_CLOCK_BANNER_MAKER_RESOURCE_H
+
+#define IDI_APP_ICON        101
+#define IDM_FILE_SAVE       1001
+#define IDM_FILE_EXIT       1002
+#define IDM_EDIT_COPY       1101
+#define IDM_HELP_ABOUT      1201
+#define IDM_TRAY_SHOW       1301
+#define IDM_TRAY_EXIT       1302
+
+#endif
