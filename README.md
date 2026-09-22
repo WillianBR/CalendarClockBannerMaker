@@ -60,6 +60,12 @@ The current interface is organized approximately as follows:
 The ASCII diagram is illustrative; the actual window is resizable and its
 layout is calculated proportionally.
 
+
+### Sample image v3.2
+
+![CalendarClockBannerMaker ScreenShot](CalendarClockBannerMaker_Screen.png)
+
+
 ---
 
 ## Highlights

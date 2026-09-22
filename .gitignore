@@ -63,5 +63,8 @@ astyle-help.txt
 build/*
 *.orig
 *.exe
-*.png
+CalendarClockBannerMaker.png
 *.ini
+build/
+dist/
+node_modules/
